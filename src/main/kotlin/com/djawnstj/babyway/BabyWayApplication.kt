@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class BabywayApplication
+class BabyWayApplication
 
 fun main(args: Array<String>) {
-    runApplication<BabywayApplication>(*args)
+    runApplication<BabyWayApplication>(*args)
 }
